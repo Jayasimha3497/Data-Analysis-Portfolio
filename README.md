@@ -33,6 +33,13 @@ In this section i will list data analytics projects briefly describing about the
 
 
 ## Education
+- REVA University
+
+   Master of Business Administration   Oct2020 - Nov2022
+
+- New Horizon College of Engineering
+
+  Bachelor of Engineering, Mechanical Engineering   July2015 - June2019
 
 
 ## Certification

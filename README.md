@@ -14,4 +14,8 @@ Exploring data through analytics - Projects that turn numbers into narratives an
 <hr>
 
 ## Table of Contents
-- [About]
+
+- [About](https://github.com/Jayasimha3497/Data-Analysis-Portfolio/edit/main/README.md#about)
+- [Installation](#installation)
+
+# Installation

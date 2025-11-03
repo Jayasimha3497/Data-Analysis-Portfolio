@@ -16,15 +16,29 @@ Exploring data through analytics - Projects that turn numbers into narratives an
 ## Table of Contents
 
 - [About](#about)
-- [Installation](#installation)
-- [App](#app)
-- [API](#api)
+- [Portfolio Projects](#portfolio-projects)
 
-# Installation
-i am installing my apps
+  - Advanced Excel
+    - [E-Commerce YOY Growth and Payment Mode Analysis](#e-commerce-yoy-growth-and-payment-mode-analysis)
 
-# App
-this is the apps and iam checking the table of contents
+- [Education](#education)
+- [Certification](#certification)
+- [Contact](#contact)
 
-# API
-iam an API
+## Portfolio Projects
+In this section i will list data analytics projects briefly describing about the goal, description, skills and technology used to solve cases
+
+### E-Commerce YOY Growth and Payment Mode Analysis
+
+
+
+## Education
+
+
+## Certification
+
+
+## Contact
+- LinkedIn:  [@Jayasimha](www.linkedin.com/in/a-i-jayasimha-reddy-72b43b15a)
+- Email:  jayasimhareddy3497@gmail.com
+

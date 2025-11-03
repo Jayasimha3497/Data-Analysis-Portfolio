@@ -13,6 +13,5 @@ This repository is a collection of my data analytics projects showing skills in 
 Exploring data through analytics - Projects that turn numbers into narratives and insights into impacts.
 <hr>
 
-##Table of Contents
-
--[About]
+## Table of Contents
+- [About]

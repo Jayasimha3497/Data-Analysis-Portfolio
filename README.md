@@ -22,6 +22,7 @@ Exploring data through analytics - Projects that turn numbers into narratives an
     - [E-Commerce YOY Growth and Payment Mode Analysis](#e-commerce-yoy-growth-and-payment-mode-analysis)
 
 - [Education](#education)
+- [Internship](#internship)
 - [Certification](#certification)
 - [Contact](#contact)
 
@@ -40,6 +41,18 @@ In this section i will list data analytics projects briefly describing about the
 - New Horizon College of Engineering
 
   Bachelor of Engineering, Mechanical Engineering   July2015 - June2019
+
+## Internship
+- Agile Capital Service, Delhi, India
+
+  Marketing Intern   April 2022 - June 2022
+
+- BEML LTD, Kolar Gold Field
+
+  Internship Trainee   July 2018
+  
+
+  
 
 
 ## Certification

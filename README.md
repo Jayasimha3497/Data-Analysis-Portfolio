@@ -30,6 +30,7 @@ Exploring data through analytics - Projects that turn numbers into narratives an
 In this section i will list data analytics projects briefly describing about the goal, description, skills and technology used to solve cases
 
 ### E-Commerce YOY Growth and Payment Mode Analysis
+**File:** [`
 
 
 

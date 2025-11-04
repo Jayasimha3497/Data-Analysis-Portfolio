@@ -79,6 +79,6 @@ Built an interactive Excel dashboard summarizing three years of e-commerce perfo
 
 
 ## Contact
-- LinkedIn:  [@Jayasimha](www.linkedin.com/in/a-i-jayasimha-reddy-72b43b15a)
+- LinkedIn:  [`Jayasimha`](www.linkedin.com/in/a-i-jayasimha-reddy-72b43b15a)
 - Email:  jayasimhareddy3497@gmail.com
 

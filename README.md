@@ -75,6 +75,8 @@ Built an interactive Excel dashboard summarizing three years of e-commerce perfo
 
 ## Certification
 
+**Certificates Repository:** [`Path`](https://github.com/Jayasimha3497/Data-analytics-certification)
+
 
 ## Contact
 - LinkedIn:  [@Jayasimha](www.linkedin.com/in/a-i-jayasimha-reddy-72b43b15a)

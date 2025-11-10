@@ -56,6 +56,7 @@ Built an interactive Excel dashboard summarizing three years of e-commerce perfo
 
 ### Cement Manufacturing Automation
 **Project Architecture:** [`Project Architecture`](https://github.com/Jayasimha3497/Project-Portfolio/blob/main/Project%20Architecture.docx)
+
 **BI Dashboard:** [`Cement Manufacturing Automation`](https://github.com/Jayasimha3497/Project-Portfolio/blob/main/Cement_PBI.pbix)
 
 

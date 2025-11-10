@@ -21,6 +21,9 @@ Exploring data through analytics - Projects that turn numbers into narratives an
   - Advanced Excel
     - [E-Commerce YOY Growth and Payment Mode Analysis](#e-commerce-yoy-growth-and-payment-mode-analysis)
 
+  - Data Analytical Project
+    - [Cement Manufacturing Automation](cement-manufacturing-automation)
+
 - [Education](#education)
 - [Internship](#internship)
 - [Certification](#certification)
@@ -50,6 +53,9 @@ The dashboard provides clear insights into total sales,order volume,average disc
 
 **Result:**
 Built an interactive Excel dashboard summarizing three years of e-commerce performance,delivered actionable insights such as top-performing payment methods and sales growth trends,achieved clear YOY growth visualization with dynamic KPI cards,improving decision-making clarity.
+
+### Cement Manufacturing Automation
+
 
 ## Education
 - REVA University

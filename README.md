@@ -22,7 +22,7 @@ Exploring data through analytics - Projects that turn numbers into narratives an
     - [E-Commerce YOY Growth and Payment Mode Analysis](#e-commerce-yoy-growth-and-payment-mode-analysis)
 
   - Data Analytical Project
-    - [Cement Manufacturing Automation](cement-manufacturing-automation)
+    - [Cement Manufacturing Automation](#cement-manufacturing-automation)
 
 - [Education](#education)
 - [Internship](#internship)

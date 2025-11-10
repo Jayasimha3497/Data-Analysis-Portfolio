@@ -55,6 +55,7 @@ The dashboard provides clear insights into total sales,order volume,average disc
 Built an interactive Excel dashboard summarizing three years of e-commerce performance,delivered actionable insights such as top-performing payment methods and sales growth trends,achieved clear YOY growth visualization with dynamic KPI cards,improving decision-making clarity.
 
 ### Cement Manufacturing Automation
+**Project Architecture:** [`Project Architecture`](https://github.com/Jayasimha3497/Project-Portfolio/blob/main/Project%20Architecture.docx)
 
 
 ## Education

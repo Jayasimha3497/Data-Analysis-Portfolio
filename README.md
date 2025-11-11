@@ -59,6 +59,8 @@ Built an interactive Excel dashboard summarizing three years of e-commerce perfo
 
 **BI Dashboard:** [`Cement Manufacturing Automation`](https://github.com/Jayasimha3497/Project-Portfolio/blob/main/Cement_PBI.pbix)
 
+**Code:** [`Data Cleaning Project Quaries`](https://github.com/Jayasimha3497/Project-Portfolio/blob/main/Cement_Manufacturing_Automation.sql)
+
 
 ## Education
 - REVA University

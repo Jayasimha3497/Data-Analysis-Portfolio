@@ -61,6 +61,8 @@ Built an interactive Excel dashboard summarizing three years of e-commerce perfo
 
 **Code:** [`Data Cleaning Project Quaries`](https://github.com/Jayasimha3497/Project-Portfolio/blob/main/Cement_Manufacturing_Automation.sql)
 
+**Goal:**
+
 
 ## Education
 - REVA University

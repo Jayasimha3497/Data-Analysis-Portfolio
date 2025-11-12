@@ -51,7 +51,7 @@ The dashboard provides clear insights into total sales,order volume,average disc
 **Technology:**
 - Microsoft Advanced Excel
 
-**Result:**
+**Results:**
 Built an interactive Excel dashboard summarizing three years of e-commerce performance,delivered actionable insights such as top-performing payment methods and sales growth trends,achieved clear YOY growth visualization with dynamic KPI cards,improving decision-making clarity.
 
 ### Cement Manufacturing Automation
@@ -65,7 +65,20 @@ Built an interactive Excel dashboard summarizing three years of e-commerce perfo
 
 **Description:** This project focuses on optimizing and monitoring the cement manufacturing process through data automation and quality testing analysis.
 
- Raw material data was collected from sensors and quality inspection logs,stored in a database and analyzed using SQL quaries,Pyhon scripts.
+  Raw material data was collected from sensors and quality inspection logs,stored in a database and analyzed using SQL quaries,Pyhon scripts.
+
+**Skills:** 
+- Statistical Analysis(Mean, Median, Mode, Variance, Standaed Deviation, Skewness, Kurtosis)
+- SQL Query optimization and data extraction
+- Data cleaning and transformation in Python(pandas, numpy)
+- Power BI Dashboard Development, Data Visualalization and KPI
+
+**Results:**
+- Provided a Power BI dashboard for real-time monitoring of material consistency and process efficiency.
+- Achieved faster and more accurate evaluation of raw material quality metrics.
+- Automated material testing data analysis for cement manufacturing.
+- Enable data-driven decision making for quality improvement and production optimization.
+
 
 
 ## Education

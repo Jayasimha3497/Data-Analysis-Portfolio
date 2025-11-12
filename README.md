@@ -61,7 +61,11 @@ Built an interactive Excel dashboard summarizing three years of e-commerce perfo
 
 **Code:** [`Data Cleaning Project Quaries`](https://github.com/Jayasimha3497/Project-Portfolio/blob/main/Cement_Manufacturing_Automation.sql)
 
-**Goal:**
+**Goal:** To automate the raw material quality chcek analysis in cement manufacturing,minimize the time between intervals of quality check and manual intervantion and provide actionable insights through power BI dashboard by leveraging SQL and Python for data processing and statistical analysis.
+
+**Description:** This project focuses on optimizing and monitoring the cement manufacturing process through data automation and quality testing analysis.
+
+ Raw material data was collected from sensors and quality inspection logs,stored in a database and analyzed using SQL quaries,Pyhon scripts.
 
 
 ## Education

@@ -19,6 +19,7 @@ Exploring data through analytics - Projects that turn numbers into narratives an
 - [Portfolio Projects](#portfolio-projects)
 
   - SQL Quaries & Analysis
+    - [HR Analytics: Employee Database analysis using SQL](#hr-analytics-employee-database-analysis-using-sql)
 
   - Advanced Excel
     - [E-Commerce YOY Growth and Payment Mode Analysis](#e-commerce-yoy-growth-and-payment-mode-analysis)
@@ -33,6 +34,8 @@ Exploring data through analytics - Projects that turn numbers into narratives an
 
 ## Portfolio Projects
 In this section i will list data analytics projects briefly describing about the goal, description, skills and technology used to solve cases
+
+## HR Analytics: Employee Database Analysis Using SQL
 
 ### E-Commerce YOY Growth and Payment Mode Analysis
 **File:** [`Ecommerce_Sales_Data_2023_2025.xlxs`](https://github.com/Jayasimha3497/Project-Portfolio/blob/main/Ecommerce_Sales_Data_2023_2025.xlsx)

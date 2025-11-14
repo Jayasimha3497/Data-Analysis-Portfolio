@@ -18,6 +18,8 @@ Exploring data through analytics - Projects that turn numbers into narratives an
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 
+  - SQL Quaries & Analysis
+
   - Advanced Excel
     - [E-Commerce YOY Growth and Payment Mode Analysis](#e-commerce-yoy-growth-and-payment-mode-analysis)
 

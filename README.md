@@ -1,11 +1,13 @@
 # Jayasimha Reddy - Data Analysis Portfolio
 ## About
-I'm an MBA graduate with a B.E in Mechinacal Engineering and a strong foundation in both business strategy and technical analytics,After completing my Data Analytics certification in April 2024-covering Advanced Excel, Python, SQL, Power BI, Tableau, and Git & GitHub. Currently enhancing my analytical and problem-solving skills, I enjoy transforming raw data into meaningful insights that support business growth and decision-making.
+I began my professional journey with a background in Mechanical Engineering, where I developed structured problem-solving and analytical thinking skills. During my MBA in Marketing and Finance, I became deeply interested in how data supports business objectives while operating within real-world constraints such as cost, timelines, and resources. That curiosity led me to transition into the analytics domain.     
 
-My experience includes building interactive dashboards,data models, and reports that track performance, identify trends, and provide actionable insights. Skilled in data transformation, data cleaning and visualization, I focus on delivering accurate efficient,and visually compelling solutions.
+To build technical expertise, I completed a Data Analytics certification covering Advanced Excel, SQL, Power BI, Python, and Tableau. Through this journey, I gained practical exposure to descriptive analytics (understanding what happened) and diagnostic analytics (analyzing why it happened), helping translate data into meaningful business insights.     
 
-I bring a unique blend of business acumen and data skills, able to bridge the gap between raw data and strategic action. My projects include sales performance dashboards, customer churn analysis, and operations optimization tools.
+I started my analytics career as a Data Analyst Intern, where I worked on data cleaning, reporting, and supporting business teams with structured insights. Currently, as a Power BI Developer, I create interactive dashboards and visual reports that align analytics with business objectives and decision-making needs.    
 
+I am passionate about simplifying complex datasets into actionable insights and continuously growing in the data domain by bridging the gap between analytics and strategy.
+ 
 My CV in [pdf](PowerBI_Developer_Data_Analyst_Jayasimha.pdf).
 <hr>
 This repository is a collection of my data analytics projects showing skills in Python, SQL, Power BI, Tableau and Advanced Excel, Track my progress in Data Analytics/Business Analytics related topics.

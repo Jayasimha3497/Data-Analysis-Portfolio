@@ -6,7 +6,7 @@ My experience includes building interactive dashboards,data models, and reports 
 
 I bring a unique blend of business acumen and data skills, able to bridge the gap between raw data and strategic action. My projects include sales performance dashboards, customer churn analysis, and operations optimization tools.
 
-My CV in [pdf](https://github.com/Jayasimha3497/data-analysis-portfolio/blob/main/JAYASIMHA_Resume.pdf).
+My CV in [pdf](PowerBI_Developer_Data_Analyst_Jayasimha.pdf).
 <hr>
 This repository is a collection of my data analytics projects showing skills in Python, SQL, Power BI, Tableau and Advanced Excel, Track my progress in Data Analytics/Business Analytics related topics.
 

@@ -98,9 +98,9 @@ Built an interactive Excel dashboard summarizing three years of e-commerce perfo
   Bachelor of Engineering, Mechanical Engineering   July2015 - June2019
 
 ## Internship
-- Agile Capital Service, Delhi, India
+- N.V.DATA SYSTEMS PRIVATE LIMITED, India
 
-  Marketing Intern   April 2022 - June 2022
+  Data Analyst Intern   April 2022 - September 2022
 
 - BEML LTD, Kolar Gold Field
 
